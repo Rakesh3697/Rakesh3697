@@ -3,6 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rakesh89&color=blue)  
 Passionate **Data Analyst** with experience in transforming raw data into meaningful insights. I enjoy working with data visualization tools, statistical models, and SQL to uncover trends and support decision-making.
 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+
 ---
 
 ## 🛠️ Skills & Tools  
@@ -31,8 +34,11 @@ Passionate **Data Analyst** with experience in transforming raw data into meanin
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/rakesh3697/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+## How To Contact Me:
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rakesh3697/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
+
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
