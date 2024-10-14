@@ -29,14 +29,17 @@ Passionate **Data Analyst** with experience in transforming raw data into meanin
 
 ## 🌱 What I’m Currently Learning  
 - Advanced Python for Data Science  
-- Machine Learning with Scikit-learn and TensorFlow  
+- Data Engineering
+- Generative AI
+- DSA in Python 
 
 ---
 
 ## How To Contact Me:
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rakesh3697/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-
+## 💻Tech Stack:
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo.png" alt="external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo"/><img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-SQL-development-files-those-icons-flat-those-icons.png" alt="external-SQL-development-files-those-icons-flat-those-icons"/>
 
 ---
 ### ✍️ Random Dev Quote
