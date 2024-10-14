@@ -48,7 +48,7 @@ Passionate **Data Analyst** with experience in transforming raw data into meanin
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rakeshrocky005?theme=dark&font=Monda&ext=contest)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakesh3697&bg_color=393236&color=ffffff&line=0cb043&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakesh3697&bg_color=000000&color=ffffff&line=0cb043&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
