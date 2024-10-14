@@ -31,6 +31,12 @@ Passionate **Data Analyst** with experience in transforming raw data into meanin
 
 ---
 
+## 🌐 Socials:
+[![LinkedIn](https://www.linkedin.com/in/rakesh3697/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 💡 Fun Fact  
 When I'm not crunching numbers or building dashboards, you can find me on the football field scoring goals! ⚽
 
