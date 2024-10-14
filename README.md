@@ -7,7 +7,7 @@ Passionate **Data Analyst** with experience in transforming raw data into meanin
 </br>
 
 ---
-
+<br>
 ## 🛠️ Skills & Tools  
 - **Data Visualization:** Power BI, Tableau, Excel 
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL,Java 
@@ -17,7 +17,7 @@ Passionate **Data Analyst** with experience in transforming raw data into meanin
 - **Analytics:** Excel Automation, Statistical Analysis  
 - **Other Tools:** Google Sheets, MS Excel, Jupyter Notebooks ,VS code ,Github ,SSMS(SQL Server Management Studio)
 - **Soft Skills:** Problem-solving, Communication, Critical Thinking  
-
+</br>
 ---
 ## 🏅 Achievements  
 
