@@ -39,7 +39,7 @@ Passionate **Data Analyst** with experience in transforming raw data into meanin
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rakesh3697/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 💻Tech Stack:
-<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/><img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-SQL-development-files-those-icons-flat-those-icons.png" alt="external-SQL-development-files-those-icons-flat-those-icons"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-SQL-development-files-those-icons-flat-those-icons.png" alt="external-SQL-development-files-those-icons-flat-those-icons"/>
 
 ---
 ### ✍️ Random Dev Quote
