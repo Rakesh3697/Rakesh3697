@@ -46,6 +46,7 @@ Passionate **Data Analyst** with experience in transforming raw data into meanin
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/><img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/><img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/><img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
 ---
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/streamlit.png" alt="streamlit"/>
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
