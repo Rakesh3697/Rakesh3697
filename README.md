@@ -61,6 +61,6 @@ When I'm not crunching numbers or building dashboards, you can find me on the fo
 
 - **Email:** rakeshthangaraj89@gmail.com  
 - **LinkedIn:** [Rakesh Thangaraj](https://www.linkedin.com/in/rakesh3697/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **GitHub:** [@rakesh89](https://github.com/Rakesh3697)  
+- **GitHub:** [@rakesh3697](https://github.com/Rakesh3697)  
 
 ---
