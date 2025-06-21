@@ -1,22 +1,56 @@
-# 👋 Hi, I'm Rakesh!  
+# 👋 Hi, I'm Rakesh! – Software Developer | Aspiring Full-Stack Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rakesh89&color=blue)  
-Passionate **Software Developer and Data Analyst** with experience in transforming raw data into meaningful insights. I enjoy working with data visualization tools, statistical models, and SQL to uncover trends and support decision-making.
+Passionate **Software Developer** with a strong foundation in backend and frontend development. I enjoy building efficient, scalable, and user-friendly applications using modern web technologies. With additional experience as a **Data Analyst**, I bring a data-driven mindset to software development.
 ---
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ---
 
-## 🛠️ Skills & Tools  
-- **Data Visualization:** Power BI, Tableau, Excel 
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL,Java 
-- **Frameworks** Django ,Flask
-- **Design Tools** Figma  Canva
-- **Databases:** SQL Server, MySQL  
-- **Analytics:** Excel Automation, Statistical Analysis  
-- **Other Tools:** Google Sheets, MS Excel, Jupyter Notebooks ,VS code ,Github ,SSMS(SQL Server Management Studio)
-- **Soft Skills:** Problem-solving, Communication, Critical Thinking  
+## 🛠️ Skills & Tools
 
+### 💻 Programming & Development
+- **Languages:** Java, Python (Pandas, NumPy), SQL, JavaScript
+- **Frameworks & Libraries:** Django, Flask, React.js (learning), Node.js (basics)
+- **Development Tools:** VS Code, GitHub, Postman
+
+### 🗃️ Databases
+- **RDBMS:** SQL Server, MySQL
+- **Tools:** SSMS (SQL Server Management Studio)
+
+### 🎨 UI/UX & Design
+- Figma, Canva
+
+---
+
+## 📊 Secondary Skills – Data Analytics
+
+- **Data Visualization:** Power BI, Tableau, MS Excel
+- **Analytics:** Statistical Analysis, Excel Automation
+- **Tools:** Jupyter Notebooks, Google Sheets
+
+---
+
+## 💡 Soft Skills
+
+- Problem-Solving  
+- Critical Thinking  
+- Team Collaboration  
+- Communication  
+
+---
+
+## 🚀 What I Do
+
+- Build **web applications** using Python, Django, and Java
+- Design **REST APIs** and manage backend logic
+- Use **SQL** for database operations and data manipulation
+- Perform **data-driven development** by integrating insights from analysis
+- Continuously learn and apply **best coding practices**
+
+---
+
+> 🔧 I'm driven to build tech that solves real-world problems.
 ---
 ## 🏅 Achievements  
 
